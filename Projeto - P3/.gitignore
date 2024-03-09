@@ -1,0 +1,3 @@
+# ignore Local
+*.pyc
+src/database.ini
